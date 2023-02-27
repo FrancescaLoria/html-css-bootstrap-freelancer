@@ -22,7 +22,7 @@ header .row > div {
 
 }
 
-section.porfoglio .row > div {
+section.porfoglio .ms_card {
     /* debug */
     height: 200px;
 }
@@ -50,3 +50,51 @@ section.porfoglio .row > div {
 .ms_lightpastel {
     background-color: #CCB2A3;
 }
+
+/* SECTION ABOUT US */
+section.about {
+    background-color: #1ABC9C;
+    /* debag */
+}
+
+/* container about us */
+.ms_container {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.ms_border {
+    border: 1px solid white;
+    height: 200px;
+}
+/* /SECTION ABOUT US */
+
+/* SECTION CONTACT */
+section.contactme {
+    /* debug */
+    height: 300px;
+}
+/* /SECTION CONTACT */
+
+/* SECTION INFO */
+section.info {
+    background-color: #3A546D;
+}
+section.info .ms_card {
+    height: 200px;
+    border: 1px solid white;
+}
+/* /SECTION INFO */
+
+/* FOOTER */
+footer{
+    background-color: #2C3E50;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+/* /FOOTER */
+
+
