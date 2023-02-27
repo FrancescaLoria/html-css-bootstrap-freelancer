@@ -1,0 +1,11 @@
+header {
+    height: 80px;
+    background-color: #2C3E50;
+}
+
+header .row > div {
+    /* DEBUG */
+    height: 80px;
+    border: 1px solid white;
+     /* /DEBUG */
+}
