@@ -9,3 +9,44 @@ header .row > div {
     border: 1px solid white;
      /* /DEBUG */
 }
+
+.jambotron {
+    /* DEBUG */
+    height: 300px;
+    background-color: #1ABC9C;
+}
+
+.content {
+    /* debug */
+    border: 1px solid white;
+
+}
+
+section.porfoglio .row > div {
+    /* debug */
+    height: 200px;
+}
+
+.ms_bordeaux {
+    background-color: #BA4B63;
+}
+
+.ms_indaco {
+    background-color: #1EA4B6;
+}
+
+.ms_black {
+    background-color: #140F0F;
+}
+
+.ms_lightblue {
+    background-color: #1C83C1;
+}
+
+.ms_blue {
+    background-color: #0E38B5;
+}
+
+.ms_lightpastel {
+    background-color: #CCB2A3;
+}
