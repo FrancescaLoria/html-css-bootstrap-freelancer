@@ -10,46 +10,40 @@ header .row > div {
      /* /DEBUG */
 }
 
+.ms_title-logo {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+/* JAMBOTRON */
 .jambotron {
-    /* DEBUG */
-    height: 300px;
     background-color: #1ABC9C;
 }
 
-.content {
-    /* debug */
-    border: 1px solid white;
 
+.ms_avatar {
+    width: 200px;
 }
 
-section.porfoglio .ms_card {
-    /* debug */
-    height: 200px;
+.ms_line {
+    display: inline-block;
+    height: 4px;
+    width: 60px;
+    margin: 3px 20px;
+    border-radius: 15px;
+    background: white;
+}
+/* /JAMBOTRON */
+
+/* PORFOGLIO */
+section.porfoglio .ms_line {
+    background: black;
 }
 
-.ms_bordeaux {
-    background-color: #BA4B63;
+.ms_img-col {
+    width: 100%;
 }
-
-.ms_indaco {
-    background-color: #1EA4B6;
-}
-
-.ms_black {
-    background-color: #140F0F;
-}
-
-.ms_lightblue {
-    background-color: #1C83C1;
-}
-
-.ms_blue {
-    background-color: #0E38B5;
-}
-
-.ms_lightpastel {
-    background-color: #CCB2A3;
-}
+/* /PORFOGLIO */
 
 /* SECTION ABOUT US */
 section.about {
