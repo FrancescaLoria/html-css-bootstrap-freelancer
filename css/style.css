@@ -53,16 +53,12 @@ section.about {
 
 /* container about us */
 .ms_container {
-    width: 90%;
+    width: 80%;
     height: 100%;
     margin: 0 auto;
-    border: 1px solid white;
+    
 }
 
-.ms_border {
-    border: 1px solid white;
-    height: 200px;
-}
 /* /SECTION ABOUT US */
 
 /* SECTION CONTACT */
