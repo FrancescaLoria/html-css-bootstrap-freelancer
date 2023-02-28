@@ -62,9 +62,25 @@ section.about {
 /* /SECTION ABOUT US */
 
 /* SECTION CONTACT */
-section.contactme {
-    /* debug */
-    height: 300px;
+section.contactme .ms_line {
+    background: black;
+}
+
+.ms_border {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+    padding: 0;
+}
+
+.ms_padding {
+    padding: 30px 0;
+}
+
+.ms_colorbtn {
+    background-color: #1ABC9C;
+    border: 0;
 }
 /* /SECTION CONTACT */
 
@@ -72,10 +88,25 @@ section.contactme {
 section.info {
     background-color: #3A546D;
 }
+
 section.info .ms_card {
-    height: 200px;
-    border: 1px solid white;
+    padding: 20px 0;
+
 }
+
+.ms_circle {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 1px solid white;
+    display: inline-block;
+    line-height: 27px;
+}
+
+.ms_colortext {
+    color: #1ABC9C;
+}
+
 /* /SECTION INFO */
 
 /* FOOTER */
